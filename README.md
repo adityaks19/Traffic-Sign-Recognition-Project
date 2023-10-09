@@ -18,13 +18,10 @@ Evaluation Metrics: Assess the model's performance using various metrics, includ
 
 Real-World Application: Deploy your trained model for real-time traffic sign detection and recognition in images and videos.
 
-Requirements:-
-
+Requirements
 To run this project, you'll need:
 
 Python 3.x
 Required Python packages (specified in the notebook)
 Jupyter Notebook
 Knowledge of computer vision and machine learning concepts
-Contributing
-Contributions and improvements are welcome! Feel free to open issues or pull requests if you have any suggestions, bug fixes, or enhancements to offer.
